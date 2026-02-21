@@ -391,7 +391,7 @@ nav ul li a:hover::after {
 .contact-form textarea:focus {
     outline: none;
     border-color: var(--accent-color);
-    box-shadow: 0 0 0 3px rgba(41, 182, 246, 0.25); /* Adjusted for new accent color */
+    box-shadow: 0 0 0 3px rgba(201, 169, 110, 0.25); /* Adjusted for new accent color */
 }
 
 .contact-form button.btn {
